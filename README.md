@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Node.js | C++ | HTML | CSS | JavaScript**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13IvGxtAdH0bbuZFkkJ7RJIKoaXmOw68f/view](https://drive.google.com/file/d/13IvGxtAdH0bbuZFkkJ7RJIKoaXmOw68f/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashraj-dudhatra-299aba237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashraj-dudhatra-299aba237" height="30" width="40" /></a>
