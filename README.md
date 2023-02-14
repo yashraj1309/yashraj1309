@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and Full stack Development**
 
-- 👨‍💻 Know More About Me [https://yashraj1309.github.io/portfolio/](https://yashraj1309.github.io/My-Digital-Portfolio/)
+- 👨‍💻 Know More About Me [https://yashraj1309.github.io/My-Digital-Portfolio/](https://yashraj1309.github.io/My-Digital-Portfolio/)
 
 - 📝 I regularly write articles on [https://csinfoplus.blogspot.com/](https://csinfoplus.blogspot.com/)
 
