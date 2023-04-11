@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dudhatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [User Management System](https://github.com/yashraj1309/ums)
-
-- 🌱 I’m currently learning **Cloud Computing and Full stack Development**
+- 🌱 I’m currently learning **Full stack Development(MERN)**
 
 - 👨‍💻 Know More About Me [https://yashraj1309.github.io/My-Digital-Portfolio/](https://yashraj1309.github.io/My-Digital-Portfolio/)
 
-- 📝 I regularly write articles on [https://csinfoplus.blogspot.com/](https://csinfoplus.blogspot.com/)
-
-- 💬 Ask me about **Node.js | C++ | HTML | CSS | JavaScript**
+- 💬 Ask me about **React.js | C++ | HTML5 | CSS3 | JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
