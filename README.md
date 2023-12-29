@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dudhatra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I'm Fullstack developer with experience more than 1 year.
+- 🌱 I'm Fullstack developer with more than 1 year of experience.
 
 - 👨‍💻 Know More About Me [https://yashraj1309.github.io/devportfolio/](https://yashraj1309.github.io/devportfolio/)
 
