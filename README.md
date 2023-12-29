@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dudhatra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack Development(MERN)**
+- 🌱 I'm Fullstack developer with experience more than 1 year.
 
 - 👨‍💻 Know More About Me [https://yashraj1309.github.io/devportfolio/](https://yashraj1309.github.io/devportfolio/)
 
-- 💬 Ask me about **React.js | C++ | HTML5 | CSS3 | JavaScript**
+- 💬 Ask me about **React.js | C++ | HTML5 | CSS3 | JavaScript | NodeJS | MongoDB | Docker | Redis | Express.js | React Libraries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
