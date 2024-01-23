@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/yashraj-dudhatra-299aba237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashraj-dudhatra-299aba237" height="30" width="40" /></a>
 <a href="https://medium.com/@dudhatrayashraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dudhatrayashraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dudhatrayashraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dudhatrayashraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashraj_dudhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraj_dudhatra" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/yashraj_dudhatra](https://leetcode.com/YASHRAJ_DEV/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraj_dudhatra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
