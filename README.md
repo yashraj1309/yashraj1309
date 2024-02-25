@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dudhatra</h1>
 <h3 align="center">Software developer based in India</h3>
 
-- 🌱 I'm Fullstack developer with more than 1 year of experience.
+- 🌱 I'm Fullstack developer with more than 1 year of experience. 
 
 - 👨‍💻 Know More About Me [https://yashraj1309.github.io/devportfolio/](https://yashraj1309.github.io/devportfolio/)
 
 - 💬 Ask me about **React.js | C++ | HTML5 | CSS3 | JavaScript | NodeJS | MongoDB | Docker | Redis | Express.js | React Libraries**
+  
+- 📓 Currently learning and developing project in **Next.js** and doing job on Next.js as well.
 
 ## 🔥 Streak Stats
 
