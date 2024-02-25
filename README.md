@@ -15,7 +15,7 @@
 <h3> Frontend Development </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,sass,bootstrap" />
   </a>
 </p>
 
