@@ -3,9 +3,9 @@
 
 - 🌱 I'm Fullstack developer with more than 1 year of experience. 
 
-- 👨‍💻 Know More About Me [https://yashraj1309.github.io/devportfolio/](https://yashraj1309.github.io/devportfolio/)
+- 👨‍💻 Know More About Me [My Personal Portfolio](https://devportfolio-lilac.vercel.app/)
 
-- 💬 Ask me about **React.js | C++ | HTML5 | CSS3 | JavaScript | NodeJS | MongoDB | Docker | Redis | Express.js | React Libraries**
+- 💬 Ask me about **React.js | Next.js | React Libraries**
   
 - 📓 Currently learning and developing project in **Next.js** and doing job on Next.js as well.
 
