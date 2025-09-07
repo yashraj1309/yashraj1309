@@ -8,32 +8,41 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj1309&theme=algolia" alt="yashraj1309" /></p>
 
 ## 🚀 Skillset 
-<h3> Frontend Development </h3>
+<h3> Programming Languages </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,sass,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,lua,powershell" />
   </a>
 </p>
 
-<h3> Backend Development </h3>
+<h3> Frontend Frameworks & Libraries </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apollo,graphql,nginx,express,nodejs,redis,powershell" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,html,css,sass" />
   </a>
 </p>
 
-<h3> Database </h3>
+<h3> Backend & API Technologies </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,apollo,graphql,nginx,redis" />
   </a>
 </p>
 
-<h3> Tools </h3>
+<h3> Databases </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,git,docker,kubernetes,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
   </a>
+</p>
+
+<h3> Development Tools & Platforms </h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,postman,vscode" />
+  </a>
+  <br/>
+  <p><b>Tools : </b>Harness, Dynatrace, Jenkins, Sanity CMS</p>
 </p>
 
 <br>
