@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dudhatra</h1>
 <h3 align="center">Software developer based in India</h3>
 
-- 🌱 I'm Fullstack developer with more than 1 year of experience. 
-
-- 👨‍💻 Know More About Me [My Personal Portfolio](https://devportfolio-lilac.vercel.app/)
-
-- 💬 Ask me about **React.js | Next.js | React Libraries**
-  
-- 📓 Currently learning and developing project in **Next.js** and doing job on Next.js as well.
+- 🌱 I'm Software Engineer with more than 3 year of experience. 
 
 ## 🔥 Streak Stats
 
@@ -17,14 +11,14 @@
 <h3> Frontend Development </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,sass,styledcomponents" />
   </a>
 </p>
 
 <h3> Backend Development </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,java,spring,redis,hibernate" />
+    <img src="https://skillicons.dev/icons?i=apollo,graphql,nginx,express,nodejs,redis,powershell" />
   </a>
 </p>
 
@@ -38,7 +32,7 @@
 <h3> Tools </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,lua,git,docker,kubernetes,postman,vscode" />
   </a>
 </p>
 
