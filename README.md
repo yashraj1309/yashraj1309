@@ -3,10 +3,6 @@
 
 - 🌱 I'm Software Engineer with more than 3 year of experience. 
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj1309&theme=algolia" alt="yashraj1309" /></p>
-
 ## 🚀 Skillset 
 <h3> Programming Languages </h3>
 <p>
